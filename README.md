@@ -1,14 +1,14 @@
 # Data-Engineering-Capstone-Project
 Data Engineering Capstone Project - Udacity Data Engineering Expert Track.
 
-In this project, I gatherd some datasets to work with, explored this data, assesed and cleaned it, defined and built the best data model to work with, and runned ETL to model the data.
+In this project, I gathered some datasets to work with, explored this data, assessed and cleaned it, defined and built the best data model to work with, and ran ETL to model the data.
 
 
 ## Project Details:
 
 The purpose of the Udacity Data Engineering capstone project, is to combine all tools, technologies, and what I learned throughout the program.
 
-So, I used Appache Spark, AWS services, Python, Datawarehouse Modeling, and big data concepts to work on it. First I gatherd some datasets to work with, then explored this data, assesed and cleaned it, After that I defined and built the best data model to work with, Finally I runned the ETL to model the data.
+So, I used Apache Spark, AWS services, Python, Datawarehouse Modeling, and big data concepts to work on it. First I gathered some datasets to work with, then explored this data, assessed and cleaned it. After that, I defined and built the best data model to work with, Finally I ran the ETL to model the data.
 
 
 ## Project Datasets:
